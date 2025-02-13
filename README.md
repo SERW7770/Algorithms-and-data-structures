@@ -18,14 +18,8 @@ Algorithmization and programming is a discipline that studies methods for develo
 Here is a list of tasks I have completed. You can review each of them.
 
 **Task #1**
-```json
-    {
-      "name": "Burning-Lab Registry",
-      // Burning
-      "scopes": [
-        "com.burning-lab"
-      ]
-    }
+```
+sdfgdsg
 ```
 
 ## Developers
