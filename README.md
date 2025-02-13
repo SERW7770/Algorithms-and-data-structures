@@ -19,7 +19,8 @@ Here is a list of tasks I have completed. You can review each of them.
 
 **Task #1**
 ```json
-    Напиши программу на C#, которая выводит на экран сумму всех четных чисел от 1 до 100.
+      fsdiofkmsp
+      fsndjsfnkl
 ```
 
 ## Developers
