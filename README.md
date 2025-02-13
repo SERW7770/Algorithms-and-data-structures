@@ -21,7 +21,7 @@ Here is a list of tasks I have completed. You can review each of them.
 ```json
     {
       "name": "Burning-Lab Registry",
-      Burning
+      // Burning
       "scopes": [
         "com.burning-lab"
       ]
