@@ -11,7 +11,7 @@
 
 ## About
 
-The swipe capture system was conceived as a separate module that could take over all the work on recognizing and processing swipes on mobile platforms. Interaction with the component is carried out using events. This approach completely separates the code of your project and the code of the component responsible for processing swipes, and a wide set of events will allow you to use this component in any projects and for any tasks.
+Algorithmization and programming is a discipline that studies methods for developing algorithms and implementing them using programming languages, in our case, C#. Algorithmization helps create clear and efficient sequences of actions to solve problems, while programming turns these algorithms into working code. As part of this subject, we learn the fundamental constructs of C# (variables, conditions, loops, methods), work with data structures (arrays, lists), study object-oriented programming (classes, inheritance, polymorphism), and apply our knowledge to develop programs of varying complexity.
 
 ## Installation
 
