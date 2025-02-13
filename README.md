@@ -19,9 +19,13 @@ Here is a list of tasks I have completed. You can review each of them.
 
 **Task #1**
 ```json
-      {
-            nuijn
-      }
+    {
+      "name": "Burning-Lab Registry",
+      "url": "https://packages.burning-lab.com",
+      "scopes": [
+        "com.burning-lab"
+      ]
+    }
 ```
 
 ## Developers
